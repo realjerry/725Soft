@@ -156,10 +156,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="App_GlobalResources\Resource-zhtw.Designer.cs">
+    <Compile Include="App_GlobalResources\Global.en-US.designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>Resource-zhtw.resx</DependentUpon>
+      <DependentUpon>Global.en-US.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\Global.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Global.resx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\AuthConfig.cs" />
     <Compile Include="App_Start\BundleConfig.cs" />
@@ -296,9 +301,15 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_GlobalResources\Resource-zhtw.resx">
+    <Content Include="App_GlobalResources\Global.en-US.resx">
       <Generator>GlobalResourceProxyGenerator</Generator>
-      <LastGenOutput>Resource-zhtw.Designer.cs</LastGenOutput>
+      <LastGenOutput>Global.en-US.designer.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_GlobalResources\Global.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>Global.designer.cs</LastGenOutput>
     </Content>
   </ItemGroup>
   <PropertyGroup>
