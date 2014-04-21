@@ -124,7 +124,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 725Soft Tech. We provide 365 Day + 360 Degree IT Support.
+        ///   Looks up a localized string similar to 725軟體科技. 我們提供全天候全方位的技術服務.
         /// </summary>
         internal static string Layout_SiteTitle {
             get {
