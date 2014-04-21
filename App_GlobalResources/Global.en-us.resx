@@ -118,87 +118,87 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="About_Message" xml:space="preserve">
-    <value>提供您最即時的技術支援.</value>
+    <value>Your best IT service provider.</value>
     <comment>Your best IT service provider.</comment>
   </data>
   <data name="Cases_Message" xml:space="preserve">
-    <value>我們有相當多的成功經驗與案例.</value>
+    <value>Successful cases of Solutions we made.</value>
     <comment>Successful cases of Solutions we made.</comment>
   </data>
   <data name="Contact_Message" xml:space="preserve">
-    <value>永遠歡迎您跟我們聯絡.</value>
+    <value>Always welcome your contact.</value>
     <comment>Always welcome your contact.</comment>
   </data>
   <data name="Index_Header" xml:space="preserve">
-    <value>我們的建議如下:</value>
+    <value>We suggest the following:</value>
     <comment>We suggest the following:</comment>
   </data>
   <data name="Index_List_Description1" xml:space="preserve">
-    <value>您可以從關於我中,了解我們的經營理念與創立的宗旨.</value>
+    <value>You can see the about us page to see what is 725Soft about. And to see what kind of services and solutions we provide.</value>
     <comment>You can see the about us page to see what is 725Soft about. And to see what kind of services and solutions we provide.</comment>
   </data>
   <data name="Index_List_Description2" xml:space="preserve">
-    <value>您可以在案例中看到我們過去的成功經驗.</value>
+    <value>In the Cases page we have list a lot of cases study and solutions we have provided.</value>
     <comment>In the Cases page we have list a lot of cases study and solutions we have provided.</comment>
   </data>
   <data name="Index_List_Description3" xml:space="preserve">
-    <value>不論您有任何的問題都隨時歡迎您跟我們聯絡,您總是可以得到您要的答案.</value>
+    <value>No matter what kind of service you are looking for, just contact us you will get the answer you want.</value>
     <comment>No matter what kind of service you are looking for, just contact us you will get the answer you want.</comment>
   </data>
   <data name="Index_List_Header1" xml:space="preserve">
-    <value>了解我們的背景</value>
+    <value>Get to Know 725Soft</value>
     <comment>Get to Know 725Soft</comment>
   </data>
   <data name="Index_List_Header2" xml:space="preserve">
-    <value>參考我們的成功案例</value>
+    <value>See the Cases</value>
     <comment>See the Cases</comment>
   </data>
   <data name="Index_List_Header3" xml:space="preserve">
-    <value>聯絡我們</value>
+    <value>Contact us</value>
     <comment>Contact us</comment>
   </data>
   <data name="Index_Message" xml:space="preserve">
-    <value>您的最佳技術服務夥伴.</value>
+    <value>You can get any IT support from 725Soft.</value>
     <comment>You can get any IT support from 725Soft.</comment>
   </data>
   <data name="Index_Title" xml:space="preserve">
-    <value>歡迎來到725軟體科技</value>
+    <value>Welcom to 725Soft Tech</value>
     <comment>Welcom to 725Soft Tech</comment>
   </data>
   <data name="Layout_CopyRight" xml:space="preserve">
-    <value>725軟體科技</value>
+    <value>725Soft Tech.</value>
     <comment>725Soft Tech. Ltd.</comment>
   </data>
   <data name="Layout_Description" xml:space="preserve">
-    <value>我們是一間新創軟體服務公司,擁有許多軟體開發經驗,希望能提供給所有客戶最好的技術服務.</value>
+    <value>We are a new IT company of a lot of IT solution experiences. And looking forward to provide the best service to customer all around the world.</value>
     <comment>We are a new IT company of a lot of IT solution experiences. And looking forward to provide the best service to customer all around the world.</comment>
   </data>
   <data name="Layout_LinkText_About" xml:space="preserve">
-    <value>關於</value>
+    <value>About</value>
     <comment>About</comment>
   </data>
   <data name="Layout_LinkText_Cases" xml:space="preserve">
-    <value>案例</value>
+    <value>Cases</value>
     <comment>Cases</comment>
   </data>
   <data name="Layout_LinkText_Contact" xml:space="preserve">
-    <value>聯絡我們</value>
+    <value>Contact</value>
     <comment>Contact</comment>
   </data>
   <data name="Layout_LinkText_Home" xml:space="preserve">
-    <value>首頁</value>
+    <value>Home</value>
     <comment>Home</comment>
   </data>
   <data name="Layout_LinkText_Services" xml:space="preserve">
-    <value>服務</value>
+    <value>Services</value>
     <comment>Services</comment>
   </data>
   <data name="Layout_SiteTitle" xml:space="preserve">
-    <value>725軟體科技. 我們提供全天候全方位的技術服務</value>
+    <value>725Soft Tech. We provide 365 Day + 360 Degree IT Support</value>
     <comment>725Soft Tech. We provide 365 Day + 360 Degree IT Support</comment>
   </data>
   <data name="Services_Message" xml:space="preserve">
-    <value>我們提供各種您所需要的技術服務.</value>
+    <value>All kind of services we provide.</value>
     <comment>All kind of services we provide.</comment>
   </data>
 </root>

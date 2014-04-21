@@ -166,6 +166,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Global.zh-tw.resx</DependentUpon>
     </Compile>
+    <Compile Include="App_GlobalResources\Global.en-us.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Global.en-us.resx</DependentUpon>
+    </Compile>
     <Compile Include="App_Start\AuthConfig.cs" />
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
@@ -319,6 +324,11 @@
     <Content Include="packages\Newtonsoft.Json.4.5.6\Newtonsoft.Json.4.5.6.nupkg" />
     <Content Include="packages\repositories.config" />
     <Content Include="packages\WebGrease.1.1.0\WebGrease.1.1.0.nupkg" />
+    <EmbeddedResource Include="App_GlobalResources\Global.en-us.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Global.en-us.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
     <Content Include="packages\DotNetOpenAuth.AspNet.4.0.3.12153\lib\net40-full\DotNetOpenAuth.AspNet.dll" />
     <Content Include="packages\DotNetOpenAuth.AspNet.4.0.3.12153\lib\net40-full\DotNetOpenAuth.AspNet.xml" />

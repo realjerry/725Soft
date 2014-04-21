@@ -10,35 +10,35 @@ namespace _725Soft.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "You can get any IT support from 725Soft.";
+            ViewBag.Message = @Resources.Global.Index_Message;
 
             return View();
         }
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your best IT service provider.";
+            ViewBag.Message = @Resources.Global.About_Message;
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Always welcome your contact.";
+            ViewBag.Message = @Resources.Global.Contact_Message;
 
             return View();
         }
 
         public ActionResult Cases()
         {
-            ViewBag.Message = "Successful cases of Solutions we made.";
+            ViewBag.Message = @Resources.Global.Cases_Message;
 
             return View();
         }
 
         public ActionResult Services()
         {
-            ViewBag.Message = "All kind of services we provide.";
+            ViewBag.Message = @Resources.Global.Services_Message;
 
             return View();
         }
