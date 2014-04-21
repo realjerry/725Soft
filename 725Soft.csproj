@@ -156,10 +156,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="App_GlobalResources\Resource-zhtw.Designer.cs">
+    <Compile Include="App_GlobalResources\Global.designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>Resource-zhtw.resx</DependentUpon>
+      <DependentUpon>Global.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\Global.zh-tw.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Global.zh-tw.resx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\AuthConfig.cs" />
     <Compile Include="App_Start\BundleConfig.cs" />
@@ -232,6 +237,10 @@
     <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <EmbeddedResource Include="App_GlobalResources\Global.zh-tw.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Global.zh-tw.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
     <Content Include="Scripts\jquery-1.7.1.js" />
     <Content Include="Scripts\jquery-1.7.1.min.js" />
@@ -296,9 +305,9 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_GlobalResources\Resource-zhtw.resx">
+    <Content Include="App_GlobalResources\Global.resx">
       <Generator>GlobalResourceProxyGenerator</Generator>
-      <LastGenOutput>Resource-zhtw.Designer.cs</LastGenOutput>
+      <LastGenOutput>Global.designer.cs</LastGenOutput>
     </Content>
   </ItemGroup>
   <PropertyGroup>
