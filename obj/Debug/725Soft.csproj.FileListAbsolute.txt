@@ -115,3 +115,4 @@ C:\Users\jerry_l_liao\Documents\GitHub\725soft\bin\Microsoft.Web.WebPages.OAuth.
 C:\Users\jerry_l_liao\Documents\GitHub\725soft\bin\WebMatrix.WebData.xml
 C:\Users\jerry_l_liao\Documents\GitHub\725soft\obj\Debug\725Soft.dll
 C:\Users\jerry_l_liao\Documents\GitHub\725soft\obj\Debug\725Soft.pdb
+C:\Users\jerry_l_liao\Documents\GitHub\725soft\obj\Debug\725Soft.csprojResolveAssemblyReference.cache
