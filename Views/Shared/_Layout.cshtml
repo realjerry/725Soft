@@ -12,7 +12,7 @@
         <header>
             <div class="content-wrapper">
                 <div class="float-left">
-                    <p class="site-title">@Html.ActionLink("725Soft Tech. We provide 365 Day + 360 Degree IT Support", "Index", "Home")</p>
+                    <p class="site-title">@Html.ActionLink(@Resources.Global.Layout_SiteTitle, "Index", "Home")</p>
                 </div>
                 <div class="float-right">
                     <section id="login">
@@ -20,11 +20,11 @@
                     </section>
                     <nav>
                         <ul id="menu">
-                            <li>@Html.ActionLink("Home", "Index", "Home")</li>
-                            <li>@Html.ActionLink("About", "About", "Home")</li>
-                            <li>@Html.ActionLink("Services", "Services", "Home")</li>
-                            <li>@Html.ActionLink("Cases", "Cases", "Home")</li>
-                            <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                            <li>@Html.ActionLink(@Resources.Global.Layout_LinkHome_Text, "Index", "Home")</li>
+                            <li>@Html.ActionLink(@Resources.Global.Layout_LinkAbout_Text, "About", "Home")</li>
+                            <li>@Html.ActionLink(@Resources.Global.Layout_LinkService_Text, "Services", "Home")</li>
+                            <li>@Html.ActionLink(@Resources.Global.Layout_LinkCase_Text, "Cases", "Home")</li>
+                            <li>@Html.ActionLink(@Resources.Global.Layout_LinkContact_Text, "Contact", "Home")</li>
                         </ul>
                     </nav>
                 </div>
@@ -49,7 +49,8 @@
         <footer>
             <div class="content-wrapper">
                 <div class="float-left">
-                    <p>&copy; @DateTime.Now.Year - 725Soft Tech. Ltd.</p>
+                    <p>&copy; @DateTime.Now.Year - @Resources.Global.Layout_Copyright</p>
+                    <p>@System.Threading.Thread.CurrentThread.CurrentUICulture.ToString()</p>
                 </div>
             </div>
         </footer>
