@@ -68,5 +68,68 @@ namespace Resources {
                 return ResourceManager.GetString("Layout_CopyRight", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We are a new IT company of a lot of IT solution experiences. And looking forward to provide the best service to customer all around the world..
+        /// </summary>
+        internal static string Layout_Description {
+            get {
+                return ResourceManager.GetString("Layout_Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to About.
+        /// </summary>
+        internal static string Layout_LinkText_About {
+            get {
+                return ResourceManager.GetString("Layout_LinkText_About", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cases.
+        /// </summary>
+        internal static string Layout_LinkText_Cases {
+            get {
+                return ResourceManager.GetString("Layout_LinkText_Cases", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Contact.
+        /// </summary>
+        internal static string Layout_LinkText_Contact {
+            get {
+                return ResourceManager.GetString("Layout_LinkText_Contact", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Home.
+        /// </summary>
+        internal static string Layout_LinkText_Home {
+            get {
+                return ResourceManager.GetString("Layout_LinkText_Home", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Services.
+        /// </summary>
+        internal static string Layout_LinkText_Services {
+            get {
+                return ResourceManager.GetString("Layout_LinkText_Services", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 725Soft Tech. We provide 365 Day + 360 Degree IT Support.
+        /// </summary>
+        internal static string Layout_SiteTitle {
+            get {
+                return ResourceManager.GetString("Layout_SiteTitle", resourceCulture);
+            }
+        }
     }
 }

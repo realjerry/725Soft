@@ -121,4 +121,32 @@
     <value>725Soft Tech.</value>
     <comment>725Soft Tech. Ltd.</comment>
   </data>
+  <data name="Layout_Description" xml:space="preserve">
+    <value>We are a new IT company of a lot of IT solution experiences. And looking forward to provide the best service to customer all around the world.</value>
+    <comment>We are a new IT company of a lot of IT solution experiences. And looking forward to provide the best service to customer all around the world.</comment>
+  </data>
+  <data name="Layout_LinkText_About" xml:space="preserve">
+    <value>About</value>
+    <comment>About</comment>
+  </data>
+  <data name="Layout_LinkText_Cases" xml:space="preserve">
+    <value>Cases</value>
+    <comment>Cases</comment>
+  </data>
+  <data name="Layout_LinkText_Contact" xml:space="preserve">
+    <value>Contact</value>
+    <comment>Contact</comment>
+  </data>
+  <data name="Layout_LinkText_Home" xml:space="preserve">
+    <value>Home</value>
+    <comment>Home</comment>
+  </data>
+  <data name="Layout_LinkText_Services" xml:space="preserve">
+    <value>Services</value>
+    <comment>Services</comment>
+  </data>
+  <data name="Layout_SiteTitle" xml:space="preserve">
+    <value>725Soft Tech. We provide 365 Day + 360 Degree IT Support</value>
+    <comment>725Soft Tech. We provide 365 Day + 360 Degree IT Support</comment>
+  </data>
 </root>

@@ -121,4 +121,32 @@
     <value>725軟體科技</value>
     <comment>725Soft Tech. Ltd.</comment>
   </data>
+  <data name="Layout_Description" xml:space="preserve">
+    <value>我們是一間新創軟體服務公司,擁有許多軟體開發經驗,希望能提供給所有客戶最好的技術服務.</value>
+    <comment>We are a new IT company of a lot of IT solution experiences. And looking forward to provide the best service to customer all around the world.</comment>
+  </data>
+  <data name="Layout_LinkText_About" xml:space="preserve">
+    <value>關於</value>
+    <comment>About</comment>
+  </data>
+  <data name="Layout_LinkText_Cases" xml:space="preserve">
+    <value>案例</value>
+    <comment>Cases</comment>
+  </data>
+  <data name="Layout_LinkText_Contact" xml:space="preserve">
+    <value>聯絡我們</value>
+    <comment>Contact</comment>
+  </data>
+  <data name="Layout_LinkText_Home" xml:space="preserve">
+    <value>首頁</value>
+    <comment>Home</comment>
+  </data>
+  <data name="Layout_LinkText_Services" xml:space="preserve">
+    <value>服務</value>
+    <comment>Services</comment>
+  </data>
+  <data name="Layout_SiteTitle" xml:space="preserve">
+    <value>725軟體科技. 我們提供全天候全方位的技術服務</value>
+    <comment>725Soft Tech. We provide 365 Day + 360 Degree IT Support</comment>
+  </data>
 </root>
