@@ -8,6 +8,13 @@
         @Styles.Render("~/Content/css")
         @Scripts.Render("~/bundles/modernizr")
         @Scripts.Render("~/bundles/jquery")
+        <script src="~/Scripts/jquery.flex.min.js"></script>
+        <link href="~/Content/Flex.css" rel="stylesheet" />
+<script type="text/javascript">
+    $(function () {
+        $(".flex").flex();
+    });
+	</script>
         @RenderSection("scripts", required: false)
     </head>
     <body>
@@ -18,7 +25,18 @@
                 </div>
                 <div class="float-right">
                     <section id="login">
-                        
+                       @* <table>
+                            <td align="right" valign="bottom" class="langsDropDownTd">
+                                <div class="langsDropDown_0">
+                                    <div class="langsDropDown_1">
+                                        <ul class="langsDropDown">
+                                            <li selectedlang="true">English</li>
+                                            <li selectedlang="false" onclick="W.App.CreateApp.switchLng('de',event)"><a href="http://de.wix.com/website/templates/html/all/1" title="Deutsch">Deutsch</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </td>
+                        </table>*@
                     </section>
                     <nav>
                         <ul id="menu">
@@ -52,7 +70,7 @@
             <div class="content-wrapper">
                 <div class="float-left">
                     <p>@Resources.Global.Layout_CopyRight_Left &copy; @DateTime.Now.Year @Resources.Global.Layout_CopyRight_Right</p>
-                    <p>@System.Threading.Thread.CurrentThread.CurrentUICulture.ToString()</p>
+                   @* <p>@System.Threading.Thread.CurrentThread.CurrentUICulture.ToString()</p>*@
                 </div>
             </div>
         </footer>
