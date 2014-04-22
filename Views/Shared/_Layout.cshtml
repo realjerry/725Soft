@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        <title>@ViewBag.Title</title>
+        <title>@Resources.Global.Site_Title</title>
         <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
         <meta name="viewport" content="width=device-width" />
         @Styles.Render("~/Content/css")
@@ -34,7 +34,7 @@
             <section class="featured">
                 <div class="content-wrapper">
                     <hgroup class="title">
-                        <h1>@ViewBag.Title.</h1>
+                        <h1>@ViewBag.Title</h1>
                         <h2>@ViewBag.Message</h2>
                     </hgroup>
                     <p>
@@ -49,8 +49,8 @@
         <footer>
             <div class="content-wrapper">
                 <div class="float-left">
-                    <p>&copy; @DateTime.Now.Year - @Resources.Global.Layout_CopyRight</p>
-                    <p>@System.Threading.Thread.CurrentThread.CurrentUICulture.ToString()</p>
+                    <p>@Resources.Global.Layout_CopyRight_Left &copy; @DateTime.Now.Year @Resources.Global.Layout_CopyRight_Right</p>
+                    @*<p>@System.Threading.Thread.CurrentThread.CurrentUICulture.ToString()</p>*@
                 </div>
             </div>
         </footer>

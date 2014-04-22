@@ -117,32 +117,108 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="About_Header_Title" xml:space="preserve">
+    <value>725軟體科技的名稱由來？</value>
+    <comment>What is 725Soft standing for?</comment>
+  </data>
+  <data name="About_List_Description1" xml:space="preserve">
+    <value>725軟體科技  一年365天全年無休｡</value>
+    <comment>We provide service 365 days a year.</comment>
+  </data>
+  <data name="About_List_Description2" xml:space="preserve">
+    <value>725軟體科技  提供360度的全方位服務｡</value>
+    <comment>We provide service from every degree of 360.</comment>
+  </data>
+  <data name="About_List_Description3" xml:space="preserve">
+    <value>365天加上360度等於 725軟體科技｡</value>
+    <comment>365 + 360° = 725Soft</comment>
+  </data>
+  <data name="About_List_Title1" xml:space="preserve">
+    <value>365天</value>
+    <comment>365D</comment>
+  </data>
+  <data name="About_List_Title2" xml:space="preserve">
+    <value>360度</value>
+    <comment>360°</comment>
+  </data>
+  <data name="About_List_Title3" xml:space="preserve">
+    <value>725軟體科技</value>
+    <comment>725Soft</comment>
+  </data>
   <data name="About_Message" xml:space="preserve">
-    <value>提供您最即時的技術支援.</value>
+    <value>提供您最即時的技術支援｡</value>
     <comment>Your best IT service provider.</comment>
   </data>
+  <data name="About_Title" xml:space="preserve">
+    <value>歡迎來到 725軟體科技</value>
+    <comment>About 725Soft</comment>
+  </data>
+  <data name="Cases_Header_Title" xml:space="preserve">
+    <value>我們已經成功完成這些任務：</value>
+    <comment>Successful cases we had made :</comment>
+  </data>
   <data name="Cases_Message" xml:space="preserve">
-    <value>我們有相當多的成功經驗與案例.</value>
+    <value>我們有相當多的成功經驗與案例｡</value>
     <comment>Successful cases of Solutions we made.</comment>
   </data>
+  <data name="Cases_Title" xml:space="preserve">
+    <value>歡迎來到 725軟體科技</value>
+    <comment>Successful Cases</comment>
+  </data>
+  <data name="Contact_Address_Description" xml:space="preserve">
+    <value>台北市大安區敦化南路二段｡</value>
+    <comment>Sec. 2, Dunhua S. Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)</comment>
+  </data>
+  <data name="Contact_Address_Title" xml:space="preserve">
+    <value>地址：</value>
+    <comment>Address</comment>
+  </data>
+  <data name="Contact_CellPhone_Title" xml:space="preserve">
+    <value>手機號碼：</value>
+    <comment>Cell-Phone:</comment>
+  </data>
+  <data name="Contact_Email_Title" xml:space="preserve">
+    <value>電子郵件：</value>
+    <comment>Email</comment>
+  </data>
+  <data name="Contact_Header_Title" xml:space="preserve">
+    <value>聯絡資訊：</value>
+    <comment>Contact information:</comment>
+  </data>
   <data name="Contact_Message" xml:space="preserve">
-    <value>永遠歡迎您跟我們聯絡.</value>
+    <value>永遠歡迎您與我們聯絡｡</value>
     <comment>Always welcome your contact.</comment>
+  </data>
+  <data name="Contact_Phone_Title" xml:space="preserve">
+    <value>電話號碼：</value>
+    <comment>Phone</comment>
+  </data>
+  <data name="Contact_Support_Email_Title" xml:space="preserve">
+    <value>支援服務：</value>
+    <comment>Support:</comment>
+  </data>
+  <data name="Contact_Title" xml:space="preserve">
+    <value>歡迎來到 725軟體科技</value>
+    <comment>Contact us</comment>
   </data>
   <data name="Index_Header" xml:space="preserve">
     <value>我們的建議如下:</value>
     <comment>We suggest the following:</comment>
   </data>
   <data name="Index_List_Description1" xml:space="preserve">
-    <value>您可以從關於我中,了解我們的經營理念與創立的宗旨.</value>
+    <value>您可以從關於我中，了解我們的經營理念與創立的宗旨｡</value>
     <comment>You can see the about us page to see what is 725Soft about. And to see what kind of services and solutions we provide.</comment>
   </data>
   <data name="Index_List_Description2" xml:space="preserve">
-    <value>您可以在案例中看到我們過去的成功經驗.</value>
-    <comment>In the Cases page we have list a lot of cases study and solutions we have provided.</comment>
+    <value>您可以在服務中看到我們提供的所有服務項目｡</value>
+    <comment>In the Services page you can see all services have provide.</comment>
   </data>
   <data name="Index_List_Description3" xml:space="preserve">
-    <value>不論您有任何的問題都隨時歡迎您跟我們聯絡,您總是可以得到您要的答案.</value>
+    <value>您可以在案例中看到我們過去的成功經驗｡</value>
+    <comment>In the Cases page we have listed a lot of cases and solutions we have provided.</comment>
+  </data>
+  <data name="Index_List_Description4" xml:space="preserve">
+    <value>不論您有任何的問題都隨時歡迎您與我們聯絡，您總是可以得到您要的答案｡</value>
     <comment>No matter what kind of service you are looking for, just contact us you will get the answer you want.</comment>
   </data>
   <data name="Index_List_Header1" xml:space="preserve">
@@ -150,27 +226,35 @@
     <comment>Get to Know 725Soft</comment>
   </data>
   <data name="Index_List_Header2" xml:space="preserve">
+    <value>查詢我們提供的服務</value>
+    <comment>See the Servies</comment>
+  </data>
+  <data name="Index_List_Header3" xml:space="preserve">
     <value>參考我們的成功案例</value>
     <comment>See the Cases</comment>
   </data>
-  <data name="Index_List_Header3" xml:space="preserve">
-    <value>聯絡我們</value>
+  <data name="Index_List_Header4" xml:space="preserve">
+    <value>馬上聯絡我們</value>
     <comment>Contact us</comment>
   </data>
   <data name="Index_Message" xml:space="preserve">
-    <value>您的最佳技術服務夥伴.</value>
+    <value>您的最佳技術服務夥伴｡</value>
     <comment>You can get any IT support from 725Soft.</comment>
   </data>
   <data name="Index_Title" xml:space="preserve">
-    <value>歡迎來到725軟體科技</value>
+    <value>歡迎來到 725軟體科技</value>
     <comment>Welcom to 725Soft Tech</comment>
   </data>
-  <data name="Layout_CopyRight" xml:space="preserve">
-    <value>725軟體科技</value>
-    <comment>725Soft Tech. Ltd.</comment>
+  <data name="Layout_CopyRight_Left" xml:space="preserve">
+    <value>725軟體科技    版權所有</value>
+    <comment>725Soft    Copyright</comment>
+  </data>
+  <data name="Layout_CopyRight_Right" xml:space="preserve">
+    <value>725Soft Taiwan Inc. All rights reserved.</value>
+    <comment>725Soft Taiwan Inc. All rights reserved.</comment>
   </data>
   <data name="Layout_Description" xml:space="preserve">
-    <value>我們是一間新創軟體服務公司,擁有許多軟體開發經驗,希望能提供給所有客戶最好的技術服務.</value>
+    <value>我們是一間新創軟體服務公司，擁有許多軟體開發經驗，希望能提供給所有客戶最好的技術服務｡</value>
     <comment>We are a new IT company of a lot of IT solution experiences. And looking forward to provide the best service to customer all around the world.</comment>
   </data>
   <data name="Layout_LinkText_About" xml:space="preserve">
@@ -194,11 +278,55 @@
     <comment>Services</comment>
   </data>
   <data name="Layout_SiteTitle" xml:space="preserve">
-    <value>725軟體科技. 我們提供全天候全方位的技術服務</value>
+    <value>725軟體科技  我們提供全天候全方位的技術服務｡</value>
     <comment>725Soft Tech. We provide 365 Day + 360 Degree IT Support</comment>
   </data>
+  <data name="Services_Header_Title" xml:space="preserve">
+    <value>我們提供如此多的服務：</value>
+    <comment>All services we provide :</comment>
+  </data>
+  <data name="Services_List_Description1" xml:space="preserve">
+    <value>企業網站規劃, 網頁設計, 論壇設計, 企業ERP方案, CRM方案</value>
+    <comment>Website Design, Forum System, ERP System, CRM System</comment>
+  </data>
+  <data name="Services_List_Description2" xml:space="preserve">
+    <value>資料庫規劃與設計, 資料分析, 系統資料轉換, 商業智慧方案</value>
+    <comment>Database Design, Data Analysis, Data ETL, Business Intelligence Solution</comment>
+  </data>
+  <data name="Services_List_Description3" xml:space="preserve">
+    <value>單機程式開發, VBA開發</value>
+    <comment>Stand alone program, VBA program</comment>
+  </data>
+  <data name="Services_List_Description4" xml:space="preserve">
+    <value>Flash, 影像美工, 文字編輯</value>
+    <comment>Flash, Image processing, Text processing</comment>
+  </data>
+  <data name="Services_List_Title1" xml:space="preserve">
+    <value>網路應用</value>
+    <comment>Internet solutions</comment>
+  </data>
+  <data name="Services_List_Title2" xml:space="preserve">
+    <value>資料處理</value>
+    <comment>Data solutions</comment>
+  </data>
+  <data name="Services_List_Title3" xml:space="preserve">
+    <value>單機程式開發</value>
+    <comment>Stand alone solutions</comment>
+  </data>
+  <data name="Services_List_Title4" xml:space="preserve">
+    <value>其他</value>
+    <comment>Others</comment>
+  </data>
   <data name="Services_Message" xml:space="preserve">
-    <value>我們提供各種您所需要的技術服務.</value>
+    <value>我們提供各種您所需要的技術服務｡</value>
     <comment>All kind of services we provide.</comment>
+  </data>
+  <data name="Services_Title" xml:space="preserve">
+    <value>歡迎來到 725軟體科技</value>
+    <comment>Services Category</comment>
+  </data>
+  <data name="Site_Title" xml:space="preserve">
+    <value>歡迎來到 725軟體科技</value>
+    <comment>Welcome to 725Soft Tech</comment>
   </data>
 </root>
