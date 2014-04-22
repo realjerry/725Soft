@@ -43,6 +43,7 @@
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.SqlServerCe, Version=4.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
@@ -187,6 +188,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include=".nuget\NuGet.exe" />
+    <Content Include="App_Data\725SoftDB.sdf" />
     <Content Include="bin\725Soft.dll" />
     <Content Include="bin\725Soft.pdb" />
     <Content Include="bin\Antlr3.Runtime.dll" />
@@ -545,7 +547,6 @@
     <Content Include="Views\Home\Services.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\" />
     <Folder Include="bin\bin\zh-tw\" />
   </ItemGroup>
   <ItemGroup>

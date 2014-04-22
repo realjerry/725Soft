@@ -76,3 +76,4 @@ C:\Users\jerry\Documents\GitHub\725soft\obj\Debug\zh-tw\725Soft.resources.dll
 C:\Users\jerry\Documents\GitHub\725soft\obj\Debug\en-us\725Soft.resources.dll
 C:\Users\jerry\Documents\GitHub\725soft\obj\Debug\725Soft.dll
 C:\Users\jerry\Documents\GitHub\725soft\obj\Debug\725Soft.pdb
+C:\Users\jerry\Documents\GitHub\725soft\obj\Debug\725Soft.csprojResolveAssemblyReference.cache
