@@ -24,5 +24,17 @@ namespace _725Soft
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             AuthConfig.RegisterAuth();
         }
+
+        protected void Application_BeginRequest(Object sender, EventArgs e)
+        {
+            HttpCookie MyLang = Request.Cookies["MyLang"];
+            if (MyLang != null)
+            {
+                System.Threading.Thread.CurrentThread.CurrentCulture =
+                    new System.Globalization.CultureInfo(MyLang.Value);
+                System.Threading.Thread.CurrentThread.CurrentUICulture =
+                    new System.Globalization.CultureInfo(MyLang.Value);
+            }
+        }
     }
 }

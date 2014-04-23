@@ -63,6 +63,7 @@ C:\Users\jerry_l_liao\Documents\GitHub\725soft\obj\Debug\_725Soft.App_GlobalReso
 C:\Users\jerry_l_liao\Documents\GitHub\725soft\obj\Debug\en-us\725Soft.resources.dll
 C:\Users\jerry\Documents\GitHub\725soft\bin\725Soft.dll
 C:\Users\jerry\Documents\GitHub\725soft\bin\725Soft.pdb
+<<<<<<< HEAD
 C:\Users\jerry\Documents\GitHub\725soft\bin\zh-tw\725Soft.resources.dll
 C:\Users\jerry\Documents\GitHub\725soft\bin\en-us\725Soft.resources.dll
 C:\Users\jerry\Documents\GitHub\725soft\bin\Org.Mentalis.Security.Cryptography.dll
@@ -74,6 +75,34 @@ C:\Users\jerry\Documents\GitHub\725soft\obj\Debug\_725Soft.App_GlobalResources.G
 C:\Users\jerry\Documents\GitHub\725soft\obj\Debug\725Soft.csproj.GenerateResource.Cache
 C:\Users\jerry\Documents\GitHub\725soft\obj\Debug\zh-tw\725Soft.resources.dll
 C:\Users\jerry\Documents\GitHub\725soft\obj\Debug\en-us\725Soft.resources.dll
+=======
+C:\Users\jerry\Documents\GitHub\725soft\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jerry\Documents\GitHub\725soft\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\jerry\Documents\GitHub\725soft\bin\System.Net.Http.Formatting.dll
+C:\Users\jerry\Documents\GitHub\725soft\bin\System.Web.Helpers.dll
+C:\Users\jerry\Documents\GitHub\725soft\bin\System.Web.Http.dll
+C:\Users\jerry\Documents\GitHub\725soft\bin\System.Web.Http.WebHost.dll
+C:\Users\jerry\Documents\GitHub\725soft\bin\System.Web.Mvc.dll
+C:\Users\jerry\Documents\GitHub\725soft\bin\System.Web.Razor.dll
+C:\Users\jerry\Documents\GitHub\725soft\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jerry\Documents\GitHub\725soft\bin\System.Web.WebPages.dll
+C:\Users\jerry\Documents\GitHub\725soft\bin\System.Web.WebPages.Razor.dll
+C:\Users\jerry\Documents\GitHub\725soft\bin\WebMatrix.Data.dll
+C:\Users\jerry\Documents\GitHub\725soft\bin\WebMatrix.WebData.dll
+C:\Users\jerry\Documents\GitHub\725soft\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\jerry\Documents\GitHub\725soft\bin\System.Net.Http.Formatting.xml
+C:\Users\jerry\Documents\GitHub\725soft\bin\System.Web.Helpers.xml
+C:\Users\jerry\Documents\GitHub\725soft\bin\System.Web.Http.xml
+C:\Users\jerry\Documents\GitHub\725soft\bin\System.Web.Http.WebHost.xml
+C:\Users\jerry\Documents\GitHub\725soft\bin\System.Web.Mvc.xml
+C:\Users\jerry\Documents\GitHub\725soft\bin\System.Web.Razor.xml
+C:\Users\jerry\Documents\GitHub\725soft\bin\System.Web.WebPages.xml
+C:\Users\jerry\Documents\GitHub\725soft\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jerry\Documents\GitHub\725soft\bin\System.Web.WebPages.Razor.xml
+C:\Users\jerry\Documents\GitHub\725soft\bin\WebMatrix.Data.xml
+C:\Users\jerry\Documents\GitHub\725soft\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\jerry\Documents\GitHub\725soft\bin\WebMatrix.WebData.xml
+>>>>>>> 6c9bb20d7e8ac432917909174e3e087fd5e4f587
 C:\Users\jerry\Documents\GitHub\725soft\obj\Debug\725Soft.dll
 C:\Users\jerry\Documents\GitHub\725soft\obj\Debug\725Soft.pdb
 C:\Users\jerry\Documents\GitHub\725soft\obj\Debug\725Soft.csprojResolveAssemblyReference.cache

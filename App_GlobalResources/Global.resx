@@ -117,6 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+<<<<<<< HEAD
   <data name="About_Header_Title" xml:space="preserve">
     <value>725軟體科技的名稱由來？</value>
     <comment>What is 725Soft standing for?</comment>
@@ -328,5 +329,60 @@
   <data name="Site_Title" xml:space="preserve">
     <value>歡迎來到 725軟體科技</value>
     <comment>Welcome to 725Soft Tech</comment>
+=======
+  <data name="Home_Index_HeaderText" xml:space="preserve">
+    <value>我們的建議如下:</value>
+  </data>
+  <data name="Home_Index_ListDescription1" xml:space="preserve">
+    <value>您可以看關於我們,了解我們的相關資訊,以及我們提供的服務種類</value>
+  </data>
+  <data name="Home_Index_ListDescription2" xml:space="preserve">
+    <value>在成功案例裡面,你可以看到我們以往完成的任務</value>
+  </data>
+  <data name="Home_Index_ListDescription3" xml:space="preserve">
+    <value>無論您需要什麼樣的服務,聯絡我們你總是可以得到解答</value>
+  </data>
+  <data name="Home_Index_ListTitle1" xml:space="preserve">
+    <value>了解725Soft軟體科技</value>
+  </data>
+  <data name="Home_Index_ListTitle2" xml:space="preserve">
+    <value>看成功案例</value>
+  </data>
+  <data name="Home_Index_ListTitle3" xml:space="preserve">
+    <value>聯絡我們</value>
+  </data>
+  <data name="Home_Index_Title" xml:space="preserve">
+    <value>歡迎來到725Soft 軟體科技</value>
+  </data>
+  <data name="Layout_About_LinkText" xml:space="preserve">
+    <value>關於我們</value>
+  </data>
+  <data name="Layout_Case_LinkText" xml:space="preserve">
+    <value>成功案例</value>
+  </data>
+  <data name="Layout_Contact_LinkText" xml:space="preserve">
+    <value>聯絡我們</value>
+  </data>
+  <data name="Layout_Copyright" xml:space="preserve">
+    <value>725Soft 軟體科技.</value>
+  </data>
+  <data name="Layout_Description" xml:space="preserve">
+    <value>我們是一間新創的IT服務公司,擁有很多軟體開發的經驗,希望能夠提供給所有需要我們的客戶最棒的服務.</value>
+  </data>
+  <data name="Layout_Home_LinkText" xml:space="preserve">
+    <value>首頁</value>
+  </data>
+  <data name="Layout_Message" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Layout_Service_LinkText" xml:space="preserve">
+    <value>服務項目</value>
+  </data>
+  <data name="Layout_SiteTitle" xml:space="preserve">
+    <value>725Soft 軟體科技. 我們提供365天+360度的技術支援</value>
+  </data>
+  <data name="Layout_Title" xml:space="preserve">
+    <value />
+>>>>>>> 6c9bb20d7e8ac432917909174e3e087fd5e4f587
   </data>
 </root>
