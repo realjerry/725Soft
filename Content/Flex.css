@@ -11,20 +11,21 @@
     display: block;
     width: 100px;
     height: 100px;
-    border-radius: 8px;
+    border-radius: 10px;
     position: absolute;
     background-repeat: no-repeat;
     background-position: center;
     border: 3px solid white;
     cursor: pointer;
     text-align: left;
-    text-shadow: 1px 1px 20px #000;
-    color: #333333;
+    text-shadow: 2px 2px 10px #000;
+    color: #fff;
     font-size: 18px;
     font-weight: bold;
     text-indent: 10px;
     line-height: 30px;
     text-decoration: none;
+    padding: 0px;
 }
 
 .marginleft {
