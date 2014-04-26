@@ -40,11 +40,19 @@
                     </section>
                     <nav>
                         <ul id="menu">
+<<<<<<< HEAD
                             <li>@Html.ActionLink(@Resources.Global.Layout_LinkText_Home, "Index", "Home")</li>
                             <li>@Html.ActionLink(@Resources.Global.Layout_LinkText_About, "About", "Home")</li>
                             <li>@Html.ActionLink(@Resources.Global.Layout_LinkText_Services, "Services", "Home")</li>
                             <li>@Html.ActionLink(@Resources.Global.Layout_LinkText_Cases, "Cases", "Home")</li>
                             <li>@Html.ActionLink(@Resources.Global.Layout_LinkText_Contact, "Contact", "Home")</li>
+=======
+                            <li>@Html.ActionLink(@Resources.Global.Layout_Home_LinkText, "Index", "Home")</li>
+                            <li>@Html.ActionLink(@Resources.Global.Layout_About_LinkText, "About", "Home")</li>
+                            <li>@Html.ActionLink(@Resources.Global.Layout_Service_LinkText, "Services", "Home")</li>
+                            <li>@Html.ActionLink(@Resources.Global.Layout_Case_LinkText, "Cases", "Home")</li>
+                            <li>@Html.ActionLink(@Resources.Global.Layout_Contact_LinkText, "Contact", "Home")</li>
+>>>>>>> 6c9bb20d7e8ac432917909174e3e087fd5e4f587
                         </ul>
                     </nav>
                 </div>
@@ -69,8 +77,16 @@
         <footer>
             <div class="content-wrapper">
                 <div class="float-left">
+<<<<<<< HEAD
                     <p>@Resources.Global.Layout_CopyRight_Left &copy; @DateTime.Now.Year @Resources.Global.Layout_CopyRight_Right</p>
+<<<<<<< HEAD
                    @* <p>@System.Threading.Thread.CurrentThread.CurrentUICulture.ToString()</p>*@
+=======
+                    @*<p>@System.Threading.Thread.CurrentThread.CurrentUICulture.ToString()</p>*@
+=======
+                    <p>&copy; @DateTime.Now.Year - @Resources.Global.Layout_Copyright</p>
+>>>>>>> 6c9bb20d7e8ac432917909174e3e087fd5e4f587
+>>>>>>> e976de8c27ff3a1ba1a49bb86502974a79ad7b3f
                 </div>
             </div>
         </footer>

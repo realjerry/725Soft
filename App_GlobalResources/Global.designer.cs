@@ -61,6 +61,7 @@ namespace Resources {
         }
         
         /// <summary>
+<<<<<<< HEAD
         ///   Looks up a localized string similar to 725軟體科技的名稱由來？.
         /// </summary>
         internal static string About_Header_Title {
@@ -255,55 +256,103 @@ namespace Resources {
         internal static string Index_Header {
             get {
                 return ResourceManager.GetString("Index_Header", resourceCulture);
+=======
+        ///   Looks up a localized string similar to 我們的建議如下:.
+        /// </summary>
+        internal static string Home_Index_HeaderText {
+            get {
+                return ResourceManager.GetString("Home_Index_HeaderText", resourceCulture);
+>>>>>>> 6c9bb20d7e8ac432917909174e3e087fd5e4f587
             }
         }
         
         /// <summary>
+<<<<<<< HEAD
         ///   Looks up a localized string similar to 您可以從關於我中，了解我們的經營理念與創立的宗旨｡.
         /// </summary>
         internal static string Index_List_Description1 {
             get {
                 return ResourceManager.GetString("Index_List_Description1", resourceCulture);
+=======
+        ///   Looks up a localized string similar to 您可以看關於我們,了解我們的相關資訊,以及我們提供的服務種類.
+        /// </summary>
+        internal static string Home_Index_ListDescription1 {
+            get {
+                return ResourceManager.GetString("Home_Index_ListDescription1", resourceCulture);
+>>>>>>> 6c9bb20d7e8ac432917909174e3e087fd5e4f587
             }
         }
         
         /// <summary>
+<<<<<<< HEAD
         ///   Looks up a localized string similar to 您可以在服務中看到我們提供的所有服務項目｡.
         /// </summary>
         internal static string Index_List_Description2 {
             get {
                 return ResourceManager.GetString("Index_List_Description2", resourceCulture);
+=======
+        ///   Looks up a localized string similar to 在成功案例裡面,你可以看到我們以往完成的任務.
+        /// </summary>
+        internal static string Home_Index_ListDescription2 {
+            get {
+                return ResourceManager.GetString("Home_Index_ListDescription2", resourceCulture);
+>>>>>>> 6c9bb20d7e8ac432917909174e3e087fd5e4f587
             }
         }
         
         /// <summary>
+<<<<<<< HEAD
         ///   Looks up a localized string similar to 您可以在案例中看到我們過去的成功經驗｡.
         /// </summary>
         internal static string Index_List_Description3 {
             get {
                 return ResourceManager.GetString("Index_List_Description3", resourceCulture);
+=======
+        ///   Looks up a localized string similar to 無論您需要什麼樣的服務,聯絡我們你總是可以得到解答.
+        /// </summary>
+        internal static string Home_Index_ListDescription3 {
+            get {
+                return ResourceManager.GetString("Home_Index_ListDescription3", resourceCulture);
+>>>>>>> 6c9bb20d7e8ac432917909174e3e087fd5e4f587
             }
         }
         
         /// <summary>
+<<<<<<< HEAD
         ///   Looks up a localized string similar to 不論您有任何的問題都隨時歡迎您與我們聯絡，您總是可以得到您要的答案｡.
         /// </summary>
         internal static string Index_List_Description4 {
             get {
                 return ResourceManager.GetString("Index_List_Description4", resourceCulture);
+=======
+        ///   Looks up a localized string similar to 了解725Soft軟體科技.
+        /// </summary>
+        internal static string Home_Index_ListTitle1 {
+            get {
+                return ResourceManager.GetString("Home_Index_ListTitle1", resourceCulture);
+>>>>>>> 6c9bb20d7e8ac432917909174e3e087fd5e4f587
             }
         }
         
         /// <summary>
+<<<<<<< HEAD
         ///   Looks up a localized string similar to 了解我們的背景.
         /// </summary>
         internal static string Index_List_Header1 {
             get {
                 return ResourceManager.GetString("Index_List_Header1", resourceCulture);
+=======
+        ///   Looks up a localized string similar to 看成功案例.
+        /// </summary>
+        internal static string Home_Index_ListTitle2 {
+            get {
+                return ResourceManager.GetString("Home_Index_ListTitle2", resourceCulture);
+>>>>>>> 6c9bb20d7e8ac432917909174e3e087fd5e4f587
             }
         }
         
         /// <summary>
+<<<<<<< HEAD
         ///   Looks up a localized string similar to 查詢我們提供的服務.
         /// </summary>
         internal static string Index_List_Header2 {
@@ -318,56 +367,107 @@ namespace Resources {
         internal static string Index_List_Header3 {
             get {
                 return ResourceManager.GetString("Index_List_Header3", resourceCulture);
+=======
+        ///   Looks up a localized string similar to 聯絡我們.
+        /// </summary>
+        internal static string Home_Index_ListTitle3 {
+            get {
+                return ResourceManager.GetString("Home_Index_ListTitle3", resourceCulture);
+>>>>>>> 6c9bb20d7e8ac432917909174e3e087fd5e4f587
             }
         }
         
         /// <summary>
+<<<<<<< HEAD
         ///   Looks up a localized string similar to 馬上聯絡我們.
         /// </summary>
         internal static string Index_List_Header4 {
             get {
                 return ResourceManager.GetString("Index_List_Header4", resourceCulture);
+=======
+        ///   Looks up a localized string similar to 歡迎來到725Soft 軟體科技.
+        /// </summary>
+        internal static string Home_Index_Title {
+            get {
+                return ResourceManager.GetString("Home_Index_Title", resourceCulture);
+>>>>>>> 6c9bb20d7e8ac432917909174e3e087fd5e4f587
             }
         }
         
         /// <summary>
+<<<<<<< HEAD
         ///   Looks up a localized string similar to 您的最佳技術服務夥伴｡.
         /// </summary>
         internal static string Index_Message {
             get {
                 return ResourceManager.GetString("Index_Message", resourceCulture);
+=======
+        ///   Looks up a localized string similar to 關於我們.
+        /// </summary>
+        internal static string Layout_About_LinkText {
+            get {
+                return ResourceManager.GetString("Layout_About_LinkText", resourceCulture);
+>>>>>>> 6c9bb20d7e8ac432917909174e3e087fd5e4f587
             }
         }
         
         /// <summary>
+<<<<<<< HEAD
         ///   Looks up a localized string similar to 歡迎來到 725軟體科技.
         /// </summary>
         internal static string Index_Title {
             get {
                 return ResourceManager.GetString("Index_Title", resourceCulture);
+=======
+        ///   Looks up a localized string similar to 成功案例.
+        /// </summary>
+        internal static string Layout_Case_LinkText {
+            get {
+                return ResourceManager.GetString("Layout_Case_LinkText", resourceCulture);
+>>>>>>> 6c9bb20d7e8ac432917909174e3e087fd5e4f587
             }
         }
         
         /// <summary>
+<<<<<<< HEAD
         ///   Looks up a localized string similar to 725軟體科技    版權所有.
         /// </summary>
         internal static string Layout_CopyRight_Left {
             get {
                 return ResourceManager.GetString("Layout_CopyRight_Left", resourceCulture);
+=======
+        ///   Looks up a localized string similar to 聯絡我們.
+        /// </summary>
+        internal static string Layout_Contact_LinkText {
+            get {
+                return ResourceManager.GetString("Layout_Contact_LinkText", resourceCulture);
+>>>>>>> 6c9bb20d7e8ac432917909174e3e087fd5e4f587
             }
         }
         
         /// <summary>
+<<<<<<< HEAD
         ///   Looks up a localized string similar to 725Soft Taiwan Inc. All rights reserved..
         /// </summary>
         internal static string Layout_CopyRight_Right {
             get {
                 return ResourceManager.GetString("Layout_CopyRight_Right", resourceCulture);
+=======
+        ///   Looks up a localized string similar to 725Soft 軟體科技..
+        /// </summary>
+        internal static string Layout_Copyright {
+            get {
+                return ResourceManager.GetString("Layout_Copyright", resourceCulture);
+>>>>>>> 6c9bb20d7e8ac432917909174e3e087fd5e4f587
             }
         }
         
         /// <summary>
+<<<<<<< HEAD
         ///   Looks up a localized string similar to 我們是一間新創軟體服務公司，擁有許多軟體開發經驗，希望能提供給所有客戶最好的技術服務｡.
+=======
+        ///   Looks up a localized string similar to 我們是一間新創的IT服務公司,擁有很多軟體開發的經驗,希望能夠提供給所有需要我們的客戶最棒的服務..
+>>>>>>> 6c9bb20d7e8ac432917909174e3e087fd5e4f587
         /// </summary>
         internal static string Layout_Description {
             get {
@@ -376,6 +476,7 @@ namespace Resources {
         }
         
         /// <summary>
+<<<<<<< HEAD
         ///   Looks up a localized string similar to 關於.
         /// </summary>
         internal static string Layout_LinkText_About {
@@ -399,29 +500,56 @@ namespace Resources {
         internal static string Layout_LinkText_Contact {
             get {
                 return ResourceManager.GetString("Layout_LinkText_Contact", resourceCulture);
+=======
+        ///   Looks up a localized string similar to 首頁.
+        /// </summary>
+        internal static string Layout_Home_LinkText {
+            get {
+                return ResourceManager.GetString("Layout_Home_LinkText", resourceCulture);
+>>>>>>> 6c9bb20d7e8ac432917909174e3e087fd5e4f587
             }
         }
         
         /// <summary>
+<<<<<<< HEAD
         ///   Looks up a localized string similar to 首頁.
         /// </summary>
         internal static string Layout_LinkText_Home {
             get {
                 return ResourceManager.GetString("Layout_LinkText_Home", resourceCulture);
+=======
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string Layout_Message {
+            get {
+                return ResourceManager.GetString("Layout_Message", resourceCulture);
+>>>>>>> 6c9bb20d7e8ac432917909174e3e087fd5e4f587
             }
         }
         
         /// <summary>
+<<<<<<< HEAD
         ///   Looks up a localized string similar to 服務.
         /// </summary>
         internal static string Layout_LinkText_Services {
             get {
                 return ResourceManager.GetString("Layout_LinkText_Services", resourceCulture);
+=======
+        ///   Looks up a localized string similar to 服務項目.
+        /// </summary>
+        internal static string Layout_Service_LinkText {
+            get {
+                return ResourceManager.GetString("Layout_Service_LinkText", resourceCulture);
+>>>>>>> 6c9bb20d7e8ac432917909174e3e087fd5e4f587
             }
         }
         
         /// <summary>
+<<<<<<< HEAD
         ///   Looks up a localized string similar to 725軟體科技  我們提供全天候全方位的技術服務｡.
+=======
+        ///   Looks up a localized string similar to 725Soft 軟體科技. 我們提供365天+360度的技術支援.
+>>>>>>> 6c9bb20d7e8ac432917909174e3e087fd5e4f587
         /// </summary>
         internal static string Layout_SiteTitle {
             get {
@@ -430,6 +558,7 @@ namespace Resources {
         }
         
         /// <summary>
+<<<<<<< HEAD
         ///   Looks up a localized string similar to 我們提供如此多的服務：.
         /// </summary>
         internal static string Services_Header_Title {
@@ -534,6 +663,13 @@ namespace Resources {
         internal static string Site_Title {
             get {
                 return ResourceManager.GetString("Site_Title", resourceCulture);
+=======
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string Layout_Title {
+            get {
+                return ResourceManager.GetString("Layout_Title", resourceCulture);
+>>>>>>> 6c9bb20d7e8ac432917909174e3e087fd5e4f587
             }
         }
     }
